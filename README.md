@@ -2,11 +2,11 @@
 
 Dengan ini kita dapat melakukan generate key, migrasi database, seed database
 
-hanya dengan menjalankan satu perintah. Pada contoh ini perintahnya adalah ```mulai:install```
+hanya dengan menjalankan satu perintah. Pada contoh ini perintahnya adalah `mulai:install`
 
 Untuk custom perintah dapat dilakukan dengan cara modifikasi file
 
-```app\Console\Commands\installer.php```
+`app\Console\Commands\installer.php`
 
 # Penggunaan
 
