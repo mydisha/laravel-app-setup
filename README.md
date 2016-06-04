@@ -13,4 +13,4 @@ Untuk custom perintah dapat dilakukan dengan cara modifikasi file
 1. Clone Repository
 2. Jalankan perintah ```composer install```
 3. Konfigurasi database
-4. Jalankan perintah ```mulai:install```
+4. Jalankan perintah ```php artisan mulai:install```
